@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"astro-build.astro-vscode",
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"GitHub.copilot",
+		"mhutchie.git-graph",
+		"lokalise.i18n-ally"
+	]
+}

@@ -1,0 +1,68 @@
+---
+import Footer from "../components/Footer";
+import Hero from "../components/Hero";
+import Platform from "../components/Platform";
+import LanguageSwitcher from "../components/LanguageSwitcher";
+
+import { t } from "../i18n";
+
+import "@fontsource/lato";
+import "@fontsource/poppins";
+import "@fontsource/raleway";
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="favicon icon" type="image/png" href="/uosu/favicon.png" />
+		<meta property="og:image" content="/uosu/og.webp" />
+		<meta property="og:title" content={t("title", false)} />
+		<meta property="og:description" content={t("description", false)} />
+		<meta property="og:url" content={Astro.site} />
+		<meta property="og:site_name" content={t("title", false)} />
+		<meta property="og:type" content="website" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@arcanistzed" />
+		<meta name="twitter:creator" content="@arcanistzed" />
+		<meta name="twitter:title" content={t("title", false)} />
+		<meta name="twitter:description" content={t("description", false)} />
+		<meta name="twitter:image" content="/uosu/og.webp" />
+
+		<title>{t("title", false)}</title>
+	</head>
+	<body>
+		<LanguageSwitcher client:load />
+		<Hero client:load />
+		<Platform client:load />
+		<Footer client:load />
+	</body>
+</html>
+
+<style is:global>
+	*,
+	*::before,
+	*::after {
+		box-sizing: border-box;
+	}
+
+	html {
+		color-scheme: dark;
+	}
+
+	html,
+	body {
+		height: 100%;
+	}
+
+	body {
+		margin: 0;
+		height: 100vh;
+	}
+
+	.mask {
+		mask-image: linear-gradient(to bottom, black 70%, transparent);
+		-webkit-mask-image: linear-gradient(to bottom, black 70%, transparent);
+	}
+</style>
