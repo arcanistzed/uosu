@@ -5,8 +5,8 @@ import { OnScroll, PopUp } from "./animations";
 const Platform = () => {
 	return (
 		<main className="m-4 mx-auto flex max-w-2xl flex-col gap-16 p-8 text-2xl leading-loose text-indigo-200">
-			<PopUp className="h-1/3">
-				<img src="/uosu/daniel-thorp.png" alt="Daniel Thorp" className="h-full" />
+			<PopUp>
+				<img src="/uosu/daniel-thorp.png" alt="Daniel Thorp" />
 			</PopUp>
 			{wrapChildren(
 				t("platform")
