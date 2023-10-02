@@ -45,13 +45,6 @@ const Hero = () => {
 							index === 3 ? "z-10 opacity-100" : "-z-10 opacity-0"
 						}`}
 					/>
-					<img
-						src="/uosu/pride-parade.jpg"
-						alt="Pride parade"
-						className={`mask absolute inset-0 h-3/4 w-full object-cover transition-opacity duration-500 ${
-							index === 4 ? "z-10 opacity-100" : "-z-10 opacity-0"
-						}`}
-					/>
 				</div>
 			</Fade>
 			<Fade transition={{ duration: 5 }}>
