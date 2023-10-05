@@ -1,0 +1,17 @@
+---
+import LocalPolicies from "../components/Policies";
+
+import LanguageSwitcher from "../components/LanguageSwitcher";
+import Layout from "./layout.astro";
+
+import { t } from "../i18n";
+
+import "@fontsource/lato";
+import "@fontsource/poppins";
+import "@fontsource/raleway";
+---
+
+<Layout title={t("policies.title", false)} description={t("policies.description", false)}>
+	<LanguageSwitcher client:load />
+	<LocalPolicies client:load />
+</Layout>

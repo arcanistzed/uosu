@@ -1,0 +1,69 @@
+---
+import Footer from "../components/Footer";
+import LanguageSwitcher from "../components/LanguageSwitcher";
+import Navbar from "../components/Navbar";
+
+import { locale } from "../i18n";
+
+import "@fontsource/lato";
+import "@fontsource/poppins";
+import "@fontsource/raleway";
+
+const { title, description } = Astro.props;
+---
+
+<html lang={locale.get()}>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="favicon icon" type="image/png" href="/uosu/favicon.png" />
+		<meta property="og:image" content="/uosu/og.webp" />
+		<meta property="og:title" content={title} />
+		<meta property="og:description" content={description} />
+		<meta property="og:url" content={Astro.site} />
+		<meta property="og:site_name" content={title}
+		<meta property="og:type" content="website" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@arcanistzed" />
+		<meta name="twitter:creator" content="@arcanistzed" />
+		<meta name="twitter:title" content={title}
+		<meta name="twitter:description" content={description} />
+		<meta name="twitter:image" content="/uosu/og.webp" />
+
+		<title>{title}</title>
+	</head>
+	<body>
+		<LanguageSwitcher client:load />
+		<Navbar client:only />
+		<slot />
+		<Footer />
+	</body>
+</html>
+
+<style is:global>
+	*,
+	*::before,
+	*::after {
+		box-sizing: border-box;
+	}
+
+	html {
+		color-scheme: dark;
+	}
+
+	html,
+	body {
+		height: 100%;
+	}
+
+	body {
+		margin: 0;
+		height: 100vh;
+	}
+
+	.mask {
+		mask-image: linear-gradient(to bottom, black 70%, transparent);
+		-webkit-mask-image: linear-gradient(to bottom, black 70%, transparent);
+	}
+</style>

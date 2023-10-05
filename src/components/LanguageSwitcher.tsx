@@ -7,15 +7,17 @@ const languages = {
 	fr: "FR",
 };
 
-const Logo = () => {
+const LanguageSwitcher = () => {
 	return (
 		<Fade transition={{ duration: 1 }}>
 			<ul className="absolute top-8 left-8 flex list-none flex-row gap-4">
 				{Object.keys(languages).map((language) => (
 					<li key={language}>
 						<button
-							className={`text-2xl font-bold transition-colors duration-500 ${
-								useStore(locale) === language ? "text-blue-300" : "text-gray-400"
+							className={`text-2xl font-bold transition-colors duration-500 after:absolute after:bottom-[-2px] after:left-0 after:h-[2px] after:w-full after:bg-medium relative after:transition-all after:duration-500 after:content-[''] after:translate-y-[-2px] ${
+								useStore(locale) === language
+									? "text-medium after:opacity-100"
+									: "text-light after:opacity-0"
 							}`}
 							type="submit"
 							onClick={() => locale.set(language as Locale)}
@@ -29,4 +31,4 @@ const Logo = () => {
 	);
 };
 
-export default Logo;
+export default LanguageSwitcher;

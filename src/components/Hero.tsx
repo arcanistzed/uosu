@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { t } from "../i18n";
-import { Fade, Reveal, Slide, PopUp } from "./animations";
+import { Fade, Reveal, Slide } from "./animations";
 
 const Hero = () => {
 	const [index, setIndex] = useState(0);
@@ -49,24 +49,24 @@ const Hero = () => {
 			</Fade>
 			<Fade transition={{ duration: 5 }}>
 				<Slide transition={{ duration: 3 }} direction="top">
-					<h1 className="text-center text-[10vmin] font-bold text-blue-200">{t("hero.vote")}</h1>
+					<h1 className="text-center text-[10vmin] font-bold text-medium">{t("index.hero.vote")}</h1>
 				</Slide>
 			</Fade>
 			<Fade transition={{ duration: 3 }}>
 				<Reveal transition={{ duration: 3, ease: "easeOut" }}>
-					<h1 className="animate-background-move bg-gradient-to-r from-cyan-300 via-red-400 to-cyan-300 bg-zoom bg-clip-text p-4 text-center font-serif text-[20vmin] font-bold text-transparent">
+					<h1 className="animate-background-move bg-gradient-to-r from-purple-300 via-blue-300 to-purple-300 bg-zoom bg-clip-text p-4 text-center font-serif text-[20vmin] font-bold text-transparent">
 						Daniel Thorp
 					</h1>
 				</Reveal>
 			</Fade>
 			<Fade transition={{ duration: 5 }}>
 				<Slide transition={{ duration: 3 }} direction="left">
-					<h1 className="text-center text-[10vmin] font-bold text-blue-200">{t("hero.title")}</h1>
+					<h1 className="text-center text-[10vmin] font-bold text-medium">{t("index.hero.title")}</h1>
 				</Slide>
 			</Fade>
 			<Fade transition={{ duration: 5 }}>
 				<Slide transition={{ duration: 3 }} direction="bottom">
-					<h2 className="text-center text-[5vmin] font-bold text-blue-300">{t("hero.dates")}</h2>
+					<h2 className="text-center text-[5vmin] font-bold text-light">{t("index.hero.dates")}</h2>
 				</Slide>
 			</Fade>
 		</header>

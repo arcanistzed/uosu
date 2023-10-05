@@ -1,6 +1,7 @@
 import { Children, type ReactNode } from "react";
 import { t } from "../i18n";
 import { OnScroll, PopUp } from "./animations";
+import ReactMarkdown from "react-markdown";
 
 const Platform = () => {
 	return (
@@ -9,10 +10,12 @@ const Platform = () => {
 				<img src="/uosu/daniel-thorp.png" alt="Daniel Thorp" />
 			</PopUp>
 			{wrapChildren(
-				t("platform")
+				t("index.platform")
 					.toString()
 					.split("\n\n")
-					.map((paragraph, index) => <p key={index}>{paragraph}</p>),
+					.map((paragraph, index) => {
+						return <ReactMarkdown key={index}>{paragraph}</ReactMarkdown>;
+					}),
 			)}
 		</main>
 	);
