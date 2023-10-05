@@ -206,11 +206,11 @@ const components = {
 	hr: ({ ...props }: ComponentProps) => <hr className="border-gray-300" {...props} />,
 } as unknown as Partial<Components>;
 
-const Policies = () => {
+const Platform = () => {
 	return (
 		<main className="m-4 mx-auto flex max-w-2xl flex-col gap-4 p-8 text-2xl leading-loose text-indigo-200 mt-24">
 			{wrapChildren(
-				t("policies.markdown")
+				t("platform.markdown")
 					.toString()
 					.split("\n")
 					.map((paragraph, index) => {
@@ -235,4 +235,4 @@ const wrapChildren = (...children: ReactNode[]) => {
 	});
 };
 
-export default Policies;
+export default Platform;

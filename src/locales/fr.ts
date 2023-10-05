@@ -1,7 +1,7 @@
 export default {
 	navbar: {
 		home: "Accueil",
-		policies: "Politiques",
+		platform: "Plateforme",
 		resume: "CV",
 		instagram: "Instagram",
 	},
@@ -23,7 +23,7 @@ En tant qu'étudiant en génie logiciel, j'ai appris à affronter les problèmes
 
 Votez pour moi et construisons un syndicat plus fort que les étudiants soutiennent pleinement. Ensemble, veillons à ce que nos canaux de communication soient ouverts et efficaces.`,
 	},
-	policies: {
+	platform: {
 		title: "Politiques | Daniel Thorp SÉUO Commissaire aux communications",
 		description: "La plateforme de Daniel Thorp pour le poste de Commissaire aux communications du SÉUO",
 		markdown: `# Politiques

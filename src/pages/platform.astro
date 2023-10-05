@@ -1,5 +1,5 @@
 ---
-import LocalPolicies from "../components/Policies";
+import Platform from "../components/Platform";
 
 import LanguageSwitcher from "../components/LanguageSwitcher";
 import Layout from "./layout.astro";
@@ -11,7 +11,7 @@ import "@fontsource/poppins";
 import "@fontsource/raleway";
 ---
 
-<Layout title={t("policies.title", false)} description={t("policies.description", false)}>
+<Layout title={t("platform.title", false)} description={t("platform.description", false)}>
 	<LanguageSwitcher client:load />
-	<LocalPolicies client:load />
+	<Platform client:load />
 </Layout>

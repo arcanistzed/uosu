@@ -3,7 +3,7 @@ import Fade from "./animations/Fade";
 
 const links = {
 	home: "/uosu",
-	policies: "/uosu/policies",
+	platform: "/uosu/platform",
 	resume: "/resume",
 	instagram: "https://instagram.com/daniel.thorp.seuo.uosu",
 } as const;

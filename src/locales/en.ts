@@ -1,7 +1,7 @@
 export default {
 	navbar: {
 		home: "Home",
-		policies: "Policies",
+		platform: "Platform",
 		resume: "Resume",
 		instagram: "Instagram",
 	},
@@ -23,10 +23,10 @@ As a software engineering student, I've been taught to tackle problems head-on a
 
 Vote for me, and let’s build a stronger union that students wholeheartedly support. Together, let's ensure that our communication channels are open and responsive.`,
 	},
-	policies: {
-		title: "Policies | Daniel Thorp UOSU Communications Commissioner",
-		description: "Daniel Thorp's policies for UOSU Communications Commissioner",
-		markdown: `# Policies
+	platform: {
+		title: "Platform | Daniel Thorp UOSU Communications Commissioner",
+		description: "Daniel Thorp's platform for UOSU Communications Commissioner",
+		markdown: `# Platform
 
 As a candidate for the position of UOSU Communications Commissioner, I am deeply committed to elevating the University of Ottawa Students' Union's (UOSU) communication and engagement strategies. To foster improvement, I have meticulously outlined a comprehensive plan that centers on several pivotal areas and includes detailed policies to address them:
 
