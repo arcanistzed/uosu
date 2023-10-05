@@ -1,5 +1,5 @@
 ---
-import Platform from "../components/Platform";
+import Markdown from "../components/Platform";
 
 import LanguageSwitcher from "../components/LanguageSwitcher";
 import Layout from "../layouts/layout.astro";
@@ -13,5 +13,5 @@ import "@fontsource/raleway";
 
 <Layout title={t("platform.title", false)} description={t("platform.description", false)}>
 	<LanguageSwitcher client:load />
-	<Platform client:load />
+	<Markdown client:load />
 </Layout>

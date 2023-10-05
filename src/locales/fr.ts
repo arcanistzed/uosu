@@ -13,7 +13,7 @@ export default {
 			title: "Commissaire aux communications",
 			dates: "Votez du 9 au 13 octobre",
 		},
-		platform: `Salut ! Je suis Daniel Thorp, candidat au poste de commissaire aux communications du Syndicat étudiant de l'Université d'Ottawa (SÉUO). Je m'engage à améliorer la communication et à faire entendre votre voix.
+		intro: `Salut ! Je suis Daniel Thorp, candidat au poste de commissaire aux communications du Syndicat étudiant de l'Université d'Ottawa (SÉUO). Je m'engage à améliorer la communication et à faire entendre votre voix.
 
 La plupart des préoccupations des étudiants à l'égard du SÉUO peuvent être attribuées à un problème fondamental : une communication inadéquate. Nous avons besoin d'un syndicat qui apporte une réelle valeur aux étudiants, et cela ne peut se produire que si le SÉUO communique efficacement avec chacun de vous. Qu'il s'agisse de défendre vos droits, de fournir des services ou d'organiser des événements, nous comptons sur VOTRE soutien pour réussir et être pris au sérieux par l'administration de l'université, les politiciens et les organisations externes.
 

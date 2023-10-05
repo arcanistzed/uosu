@@ -1,7 +1,7 @@
 ---
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
-import Platform from "../components/Platform";
+import Intro from "../components/Intro";
 import Layout from "../layouts/layout.astro";
 
 import { t } from "../i18n";
@@ -13,5 +13,5 @@ import "@fontsource/raleway";
 
 <Layout title={t("index.title", false)} description={t("index.description", false)}>
 	<Hero client:load />
-	<Platform client:load />
+	<Intro client:load />
 </Layout>

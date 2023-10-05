@@ -13,7 +13,7 @@ export default {
 			title: "Communications Commissioner",
 			dates: "Vote Oct 9th - 13th",
 		},
-		platform: `Hello! My name is Daniel Thorp, a candidate for Communications Commissioner at the University of Ottawa Students' Union (UOSU). I'm dedicated to improving communication and making your voice heard.
+		intro: `Hello! My name is Daniel Thorp, a candidate for Communications Commissioner at the University of Ottawa Students' Union (UOSU). I'm dedicated to improving communication and making your voice heard.
 
 Many students' concerns with the UOSU can be traced back to one fundamental issue: inadequate communication. Information about the UOSU is often inaccessible and hard to find. Running a student union is already a challenging task, but it becomes nearly insurmountable without strong support from its members. We need a union that truly delivers value to students, and that can only happen if the UOSU effectively reaches out to all of you. Whether it's advocating for your rights, providing services, or organising events, we rely on YOUR support to be successful and to be taken seriously by university administration, politicians, and external organisations.
 
