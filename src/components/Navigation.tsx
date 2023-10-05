@@ -3,7 +3,7 @@ import { t } from "../i18n";
 import Fade from "./animations/Fade";
 
 const links = {
-	home: "/uosu",
+	home: "/uosu/",
 	platform: "/uosu/platform",
 	resume: "/resume",
 	instagram: "https://instagram.com/daniel.thorp.seuo.uosu",
@@ -14,9 +14,10 @@ type Link = keyof Links;
 
 const Nav = () => {
 	return (
-		<ul className="flex flex-col gap-4 sm:flex-row sm:gap-8 items-center justify-center">
+		<ul className="flex flex-col gap-4 xl:flex-row xl:gap-8 items-center justify-center">
 			{Object.entries(links).map(([key, value]) => {
 				const route = window.location.pathname;
+
 				return (
 					<li key={key}>
 						<a
@@ -45,12 +46,12 @@ const Navbar = () => {
 				<>
 					<nav
 						aria-label={t("navbar.aria.desktop")}
-						className="absolute top-8 right-8 list-none flex-row gap-4 hidden sm:flex"
+						className="absolute top-8 right-8 list-none flex-row gap-4 hidden xl:flex"
 					>
 						<Nav />
 					</nav>
 					<button
-						className="absolute top-6 right-4 z-20 sm:hidden"
+						className="absolute top-6 right-4 z-20 xl:hidden"
 						onClick={() => setOpen(!open)}
 						aria-pressed={open}
 					>
