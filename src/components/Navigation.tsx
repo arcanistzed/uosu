@@ -44,7 +44,7 @@ const Navbar = () => {
 			<Fade transition={{ duration: 1 }}>
 				<>
 					<nav
-						aria-label="Navigation"
+						aria-label={t("navbar.aria.desktop")}
 						className="absolute top-8 right-8 list-none flex-row gap-4 hidden sm:flex"
 					>
 						<Nav />
@@ -73,7 +73,7 @@ const Navbar = () => {
 				</>
 			</Fade>
 			<nav
-				aria-label="Mobile navigation"
+				aria-label={t("navbar.aria.mobile")}
 				className={`fixed inset-0 z-10 flex w-screen flex-col flex-wrap items-center justify-center gap-8 bg-dark p-6 text-medium transition duration-500 ${
 					open ? "" : "translate-x-full"
 				}`}
