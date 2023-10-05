@@ -1,7 +1,7 @@
 ---
 import Footer from "../components/Footer";
 import LanguageSwitcher from "../components/LanguageSwitcher";
-import Navbar from "../components/Navbar";
+import Navigation from "../components/Navigation";
 
 import { locale } from "../i18n";
 
@@ -35,7 +35,7 @@ const { title, description } = Astro.props;
 	</head>
 	<body>
 		<LanguageSwitcher client:load />
-		<Navbar client:only />
+		<Navigation client:only />
 		<slot />
 		<Footer />
 	</body>

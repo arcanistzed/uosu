@@ -4,6 +4,10 @@ export default {
 		platform: "Platform",
 		resume: "Resume",
 		instagram: "Instagram",
+		aria: {
+			desktop: "Navigation",
+			mobile: "Mobile navigation",
+		}
 	},
 	index: {
 		title: "Daniel Thorp UOSU Communications Commissioner",

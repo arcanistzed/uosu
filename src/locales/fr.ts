@@ -4,6 +4,10 @@ export default {
 		platform: "Plateforme",
 		resume: "CV",
 		instagram: "Instagram",
+		aria: {
+			desktop: "Navigation",
+			mobile: "Navigation mobile",
+		},
 	},
 	index: {
 		title: "Daniel Thorp SÉUO Commissaire aux communications",
