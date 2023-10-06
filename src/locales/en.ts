@@ -7,7 +7,7 @@ export default {
 		aria: {
 			desktop: "Navigation",
 			mobile: "Mobile navigation",
-		}
+		},
 	},
 	index: {
 		title: "Daniel Thorp UOSU Communications Commissioner",
@@ -39,6 +39,8 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Content Relevance:** To combat outdated and irrelevant content, I will establish a rigorous content review schedule to ensure information remains up-to-date.
 - **Events Calendar:** I will diligently oversee the publication of all UOSU events and maintain a dynamic calendar reflecting the diversity of campus activities.
 - **FAQ:** I will enhance the FAQ section by incorporating questions that are actually asked and offering comprehensive solutions to common issues, thereby improving user experience.
+- **Accessibility:** I will ensure that the website is accessible to individuals with disabilities through regular accessibility audits and staff training.
+- **Bilingualism:** I will ensure that the website is fully bilingual, meeting linguistic policy requirements and enhancing inclusivity.
 
 ## Clubs Portal
 - **Clubs List:** Regular updates and strategic restructuring will enhance the organization and filtering options of the clubs list, improving the visibility and accessibility of student clubs.
@@ -55,10 +57,12 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Application Tracking:** Implementing an application tracking system for students to monitor the status of their funding applications, reducing uncertainty.
 
 ## Email
-
 - **Accessibility:** Ensuring that all UOSU emails are accessible to individuals with disabilities through regular accessibility audits and staff training.
 - **Relevance:** UOSU emails will consistently contain content directly relevant to what students voted for at the General Assembly (GA).
 - **Bilingualism:** Making French content directly accessible within emails to meet linguistic policy requirements and enhance inclusivity.
+- **Design:** I will create a consistent email design that is visually appealing and easy to read.
+- **Frequency:** I will establish a regular email schedule to ensure that students receive information in a timely manner.
+- **Deliverability:** I will work with the university to ensure that UOSU emails are sent to students' inboxes rather than their junk folders.
 
 ## Community Building
 - **Online:** Creating a UOSU Discord server as a hub for student connection and engagement.
@@ -71,6 +75,7 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Internal Student Groups:** Providing student groups with opportunities for collaboration and amplifying their activities and initiatives.
 - **External Student Groups:** Building relationships with the Graduate Student's Association des étudiant.es diplômé.es (GSAÉD) and the Carleton University Students' Association (CUSA) to expand opportunities for UOSU members and enhance UOSU services.
 - **Alumni Engagement:** Developing a strategy for engaging UOSU alumni, potentially involving them in mentorship programs or supporting UOSU initiatives.
+- **External Organisations:** Building relationships with external organisations to enhance UOSU services and provide students with more opportunities.
 
 ## Governance and Engagement
 - **Student Input:** Promoting transparency and active consultation with students through input-seeking mechanisms, surveys, townhalls, forums, and feedback loops to assess policies and initiatives.
@@ -83,6 +88,7 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Financial Transparency:** Enhancing transparency in financial matters, including detailed breakdowns of student fee allocations.
 - **Cybersecurity:** Ensuring the highest level of data security and privacy protection, especially when handling personal information through various communication channels. Strengthening cybersecurity practices through vulnerability assessments, penetration testing, and secure data storage.
 - **Regular Reports:** Publishing regular reports and updates on the progress of initiatives and policies to keep students informed about the work being done.
+- **Student Involvement:** Creating opportunities for students to get involved in UOSU activities and initiatives, including volunteering and employment (and CO-OP) opportunities.
 
 I am dedicated to implementing these measures to enhance communication and engagement within the UOSU, fostering a more vibrant and inclusive campus community. I am committed to ensuring that the UOSU is a student union that students wholeheartedly support.`,
 	},

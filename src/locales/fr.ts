@@ -39,6 +39,8 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Pertinence du contenu :** Pour lutter contre les contenus obsolètes et non pertinents, j'établirai un calendrier rigoureux de révision du contenu afin de garantir que les informations restent à jour.
 - **Calendrier des événements :** Je superviserai avec diligence la publication de tous les événements du SÉUO et maintiendrai un calendrier dynamique reflétant la diversité des activités du campus.
 - **FAQ :** Je vais améliorer la section FAQ en incorporant les questions qui sont réellement demander et en offrant des solutions complètes aux problèmes courants, améliorant ainsi l'expérience de l'utilisateur.
+- Accessibilité:** Je veillerai à ce que le site web soit accessible aux personnes handicapées grâce à des audits d'accessibilité réguliers et à la formation du personnel.
+- Bilinguisme:** Je veillerai à ce que le site web soit entièrement bilingue, afin de répondre aux exigences de la politique linguistique et de favoriser l'inclusion.
 
 ## Portail des clubs
 - **Liste des clubs :** Des mises à jour régulières et une restructuration stratégique amélioreront l'organisation et les options de filtrage de la liste des clubs, améliorant ainsi la visibilité et l'accessibilité des clubs étudiants.
@@ -54,11 +56,13 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Ressources d'orientation :** Création de guides et de ressources complets pour les étudiants et les clubs afin de les aider à naviguer dans le processus de demande de financement, y compris des instructions étape par étape.
 - **Suivi des demandes :** Mise en place d'un système de suivi des demandes permettant aux étudiants de contrôler l'état d'avancement de leurs demandes de financement et de réduire les incertitudes.
 
-## Email
-
+## Courriels
 - **Accessibilité :** S'assurer que tous les courriels du SÉUO sont accessibles aux personnes handicapées grâce à des audits d'accessibilité réguliers et à la formation du personnel.
 - **Pertinence :** Les courriels du SÉUO contiendront systématiquement un contenu en rapport direct avec ce que les étudiants ont voté lors de l'Assemblée générale (AG).
 - **Bilinguisme :** Rendre le contenu français directement accessible dans les courriels afin de répondre aux exigences de la politique linguistique et d'améliorer l'inclusion.
+- **Design :** Je vais créer un design d'email cohérent, visuellement attrayant et facile à lire.
+- **Fréquence :** J'établirai un calendrier régulier d'envoi de courriels afin de m'assurer que les étudiants reçoivent les informations en temps voulu.
+- **Délivrabilité :** Je travaillerai avec l'université pour m'assurer que les courriels du SÉUO sont envoyés dans les boîtes de réception des étudiants plutôt que dans leurs dossiers indésirables.
 
 ## Renforcement de la communauté
 - **En ligne :** Créer un serveur Discord du SÉUO comme hub pour la connexion et l'engagement des étudiants.
@@ -66,11 +70,12 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Étudiants marginalisés :** Favoriser de meilleures relations avec les étudiants opposés au SÉUO en facilitant le dialogue et en écoutant leurs préoccupations.
 - **Marchandise et vêtements :** La création de produits durables et de haute qualité qui reflètent le soutien des étudiants au SÉUO et qui renforcent la présence du syndicat sur le campus.
 
-## Sensibilisation
+## Relations
 - **Sponsoring :** Collaborer avec les entreprises locales pour obtenir des sponsors.
 - **Groupes d'étudiants internes :** Offrir aux groupes d'étudiants des possibilités de collaboration et d'amplification de leurs activités et initiatives.
 - **Groupes d'étudiants externes :** Établir des relations avec la Graduate Student's Association des étudiant.es diplômé.es (GSAÉD) et le Carleton University Students' Association (CUSA) afin d'accroître les possibilités pour les membres du SÉUO et d'améliorer les services offerts par le SÉUO.
 - **Engagement des anciens :** Développer une stratégie pour engager les anciens du SÉUO, potentiellement en les impliquant dans des programmes de mentorat ou en soutenant les initiatives du SÉUO.
+- **Organisations externes :** Établir des relations avec des organisations externes afin d'améliorer les services du SÉUO et d'offrir davantage d'opportunités aux étudiants.
 
 ## Gouvernance et engagement
 - **Contribution des étudiants :** Promouvoir la transparence et la consultation active des étudiants par le biais de mécanismes de recherche de contributions, d'enquêtes, d'assemblées générales, de forums et de boucles de rétroaction pour évaluer les politiques et les initiatives.
@@ -83,6 +88,7 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Transparence financière :** Améliorer la transparence dans les questions financières, y compris la ventilation détaillée des allocations de frais d'inscription des étudiants.
 - **Cybersécurité :** Garantir le plus haut niveau de sécurité des données et de protection de la vie privée, en particulier lors du traitement d'informations personnelles par le biais de divers canaux de communication. Renforcer les pratiques de cybersécurité par des évaluations de la vulnérabilité, des tests de pénétration et un stockage sécurisé des données.
 - **Publier des rapports réguliers et des mises à jour sur l'avancement des initiatives et des politiques afin de tenir les étudiants informés du travail accompli.
+- **Implication des étudiants:** Créer des opportunités pour les étudiants de s'impliquer dans les activités et les initiatives du SÉUO, y compris le bénévolat et les opportunités d'emploi (et CO-OP).
 
 Je m'engage à mettre en œuvre ces mesures pour améliorer la communication et l'engagement au sein du SÉUO, en favorisant une communauté de campus plus dynamique et plus inclusive. Je m'engage à faire en sorte que le SÉUO soit une syndicat étudiant que les étudiants soutiennent de tout cœur.`,
 	},
