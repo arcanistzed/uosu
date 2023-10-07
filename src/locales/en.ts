@@ -51,7 +51,7 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 
 ## Funding Applications
 - **Streamlining:** Work on streamlining the SmartSimple system to enhance user-friendliness and efficiency for both clubs accessing funding and students applying for scholarships.
-- **Automation:** Reducing the need for manual data entry and exporting, thereby lowering barriers to applying for funding and processing applications.
+- **Automation:** Reducing the need for manual data entry, processing, and exporting, thereby lowering barriers to applying for funding and processing applications.
 - **Flexibility:** Addressing issues related to students applying for funding for multiple clubs or scholarships.
 - **Guidance Resources:** Creating comprehensive guides and resources for students and clubs to navigate the funding application process, including step-by-step instructions.
 - **Application Tracking:** Implementing an application tracking system for students to monitor the status of their funding applications, reducing uncertainty.

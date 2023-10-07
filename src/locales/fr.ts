@@ -51,7 +51,7 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 
 ## Demandes de financement
 - **Rationalisation :** Travailler sur la rationalisation du système SmartSimple afin d'améliorer la convivialité et l'efficacité à la fois pour les clubs accédant au financement et pour les étudiants demandant des bourses d'études.
-- **Automatisation :** Réduire le besoin de saisie manuelle des données et d'exportation, réduisant ainsi les obstacles à la demande de financement et au traitement des demandes.
+- **Automatisation :** Réduire la nécessité de saisir, de traiter et d'exporter manuellement les données, abaissant ainsi les obstacles à la demande de financement et au traitement des demandes.
 - **Flexibilité  :** répondre aux problèmes liés aux demandes de financement des étudiants pour plusieurs clubs ou bourses d'études.
 - **Ressources d'orientation :** Création de guides et de ressources complets pour les étudiants et les clubs afin de les aider à naviguer dans le processus de demande de financement, y compris des instructions étape par étape.
 - **Suivi des demandes :** Mise en place d'un système de suivi des demandes permettant aux étudiants de contrôler l'état d'avancement de leurs demandes de financement et de réduire les incertitudes.
