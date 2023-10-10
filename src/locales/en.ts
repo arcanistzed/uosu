@@ -76,6 +76,7 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **External Student Groups:** Building relationships with the Graduate Student's Association des étudiant.es diplômé.es (GSAÉD) and the Carleton University Students' Association (CUSA) to expand opportunities for UOSU members and enhance UOSU services.
 - **Alumni Engagement:** Developing a strategy for engaging UOSU alumni, potentially involving them in mentorship programs or supporting UOSU initiatives.
 - **External Organisations:** Building relationships with external organisations to enhance UOSU services and provide students with more opportunities.
+- **Round table:** Establishing a communications round table with Recognized Student Government (RSG) vice-presidents of communications to share best practices and collaborate on initiatives.
 
 ## Governance and Engagement
 - **Student Input:** Promoting transparency and active consultation with students through input-seeking mechanisms, surveys, townhalls, forums, and feedback loops to assess policies and initiatives.

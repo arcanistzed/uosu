@@ -76,6 +76,7 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Groupes d'étudiants externes :** Établir des relations avec la Graduate Student's Association des étudiant.es diplômé.es (GSAÉD) et le Carleton University Students' Association (CUSA) afin d'accroître les possibilités pour les membres du SÉUO et d'améliorer les services offerts par le SÉUO.
 - **Engagement des anciens :** Développer une stratégie pour engager les anciens du SÉUO, potentiellement en les impliquant dans des programmes de mentorat ou en soutenant les initiatives du SÉUO.
 - **Organisations externes :** Établir des relations avec des organisations externes afin d'améliorer les services du SÉUO et d'offrir davantage d'opportunités aux étudiants.
+- **Table ronde :** Établir une table ronde sur la communication avec les vice-présidents de la communication des gouvernements étudiants reconnus (GÉR) afin de partager des bonnes pratiques et de collaborer sur des initiatives.
 
 ## Gouvernance et engagement
 - **Contribution des étudiants :** Promouvoir la transparence et la consultation active des étudiants par le biais de mécanismes de recherche de contributions, d'enquêtes, d'assemblées générales, de forums et de boucles de rétroaction pour évaluer les politiques et les initiatives.
