@@ -38,7 +38,7 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Disponibilité :** Je m'engage à rectifier les problèmes liés au site web en instituant une maintenance et des mises à jour régulières, tout en adoptant des technologies alternatives si nécessaire.
 - **Pertinence du contenu :** Pour lutter contre les contenus obsolètes et non pertinents, j'établirai un calendrier rigoureux de révision du contenu afin de garantir que les informations restent à jour.
 - **Calendrier des événements :** Je superviserai avec diligence la publication de tous les événements du SÉUO et maintiendrai un calendrier dynamique reflétant la diversité des activités du campus.
-- **FAQ :** Je vais améliorer la section FAQ en incorporant les questions qui sont réellement demander et en offrant des solutions complètes aux problèmes courants, améliorant ainsi l'expérience de l'utilisateur.
+- **FAQ :** Je vais améliorer la section FAQ en incorporant les questions qui sont réellement demander à la reception et en offrant des solutions complètes aux problèmes courants, améliorant ainsi l'expérience de l'utilisateur.
 - Accessibilité:** Je veillerai à ce que le site web soit accessible aux personnes handicapées grâce à des audits d'accessibilité réguliers et à la formation du personnel.
 - Bilinguisme:** Je veillerai à ce que le site web soit entièrement bilingue, afin de répondre aux exigences de la politique linguistique et de favoriser l'inclusion.
 
@@ -87,6 +87,8 @@ En tant que candidat au poste de commissaire aux communications du SÉUO, je sui
 - **Heures de bureau et atmosphère :** Mettre en place des heures de bureau plus flexibles et favoriser une atmosphère accueillante pour les étudiants qui cherchent de l'aide.
 - **Assemblées générales :** Accroître l'accessibilité et la participation aux assemblées générales grâce à des ressources éducatives et à une communication plus claire sur les détails et les avantages des assemblées.
 - **Transparence financière :** Améliorer la transparence dans les questions financières, y compris la ventilation détaillée des allocations de frais d'inscription des étudiants.
+- **Frais facultatifs :** Améliorer la communication sur les frais facultatifs et les avantages de des frais afin de s'assurer que les étudiants sont conscients des services pour lesquels ils paient.
+- **Assurance maladie :** Améliorer la communication sur StudentCare pour s'assurer que les étudiants sont au courant de leur couverture et de la manière dont ils peuvent obtenir des informations à ce sujet.
 - **Cybersécurité :** Garantir le plus haut niveau de sécurité des données et de protection de la vie privée, en particulier lors du traitement d'informations personnelles par le biais de divers canaux de communication. Renforcer les pratiques de cybersécurité par des évaluations de la vulnérabilité, des tests de pénétration et un stockage sécurisé des données.
 - **Publier des rapports réguliers et des mises à jour sur l'avancement des initiatives et des politiques afin de tenir les étudiants informés du travail accompli.
 - **Implication des étudiants:** Créer des opportunités pour les étudiants de s'impliquer dans les activités et les initiatives du SÉUO, y compris le bénévolat et les opportunités d'emploi (et CO-OP).

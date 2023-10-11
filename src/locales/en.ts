@@ -38,7 +38,7 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Reliability:** I pledge to rectify website issues by instituting regular maintenance and updates while embracing alternative technologies when necessary.
 - **Content Relevance:** To combat outdated and irrelevant content, I will establish a rigorous content review schedule to ensure information remains up-to-date.
 - **Events Calendar:** I will diligently oversee the publication of all UOSU events and maintain a dynamic calendar reflecting the diversity of campus activities.
-- **FAQ:** I will enhance the FAQ section by incorporating questions that are actually asked and offering comprehensive solutions to common issues, thereby improving user experience.
+- **FAQ:** I will enhance the FAQ section by incorporating questions that are actually asked at reception and offering comprehensive solutions to common issues, thereby improving user experience.
 - **Accessibility:** I will ensure that the website is accessible to individuals with disabilities through regular accessibility audits and staff training.
 - **Bilingualism:** I will ensure that the website is fully bilingual, meeting linguistic policy requirements and enhancing inclusivity.
 
@@ -87,6 +87,8 @@ As a candidate for the position of UOSU Communications Commissioner, I am deeply
 - **Office Hours and Atmosphere:** Implementing more flexible office hour times and fostering a welcoming atmosphere for students seeking assistance.
 - **General Assemblies:** Increasing accessibility and participation in general assemblies through educational resources and clearer communication on assembly details and benefits.
 - **Financial Transparency:** Enhancing transparency in financial matters, including detailed breakdowns of student fee allocations.
+- **Optional Fees:** Improving communication on opt-out fees and the benefits of opting in to ensure that students are aware of the services they are paying for.
+- **Health Insurance:** Improving communication about StudentCare to ensure students are aware of their coverage and how to access information about it.
 - **Cybersecurity:** Ensuring the highest level of data security and privacy protection, especially when handling personal information through various communication channels. Strengthening cybersecurity practices through vulnerability assessments, penetration testing, and secure data storage.
 - **Regular Reports:** Publishing regular reports and updates on the progress of initiatives and policies to keep students informed about the work being done.
 - **Student Involvement:** Creating opportunities for students to get involved in UOSU activities and initiatives, including volunteering and employment (and CO-OP) opportunities.
